@@ -1,0 +1,7 @@
+controlador\FeriaControlador.class
+vista\FeriaVista.class
+modelo\Stand.class
+modelo\Empresa.class
+modelo\Comentario.class
+modelo\Visitante.class
+modelo\FeriaEmpresarial.class
