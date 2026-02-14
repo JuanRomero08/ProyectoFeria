@@ -10,7 +10,7 @@ Este proyecto consiste en el desarrollo de un sistema de Feria Empresarial, real
 
 ## Instrucciones para ejecutar el proyecto
 
-### 🔧 Requisitos previos
+### Requisitos previos
 - Tener instalado Java JDK 21
 - Tener instalado NetBeans IDE
 - Tener Git (opcional, si se clona el repositorio)
